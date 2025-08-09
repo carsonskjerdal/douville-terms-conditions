@@ -1,3 +1,7 @@
+---
+title: Terms & Conditions - Douville Home Inspections
+---
+
 **Terms & Conditions**  
 
 These terms and conditions apply to the Douville Home Inspections app (hereby referred to as "Application") for mobile devices that was created by Douville & Co. Home Inspections LTD (hereby referred to as "Service Provider") as a Commercial service.
